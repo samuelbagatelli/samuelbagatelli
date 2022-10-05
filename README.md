@@ -1,6 +1,6 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, me chamo Samuel</h1>
 
-<h3 align="center">Sou um desenvolvedor web Front-end apaixonado por aprender!</h3>
+<h3 align="center">Sou um desenvolvedor web Front-end júnior apaixonado por aprender!</h3>
 
 ##
 
