@@ -40,20 +40,6 @@
 	Self control, empathy, colaboration, assertive communication, criativity, time management and problem solving.
 </div>
 
-## Get in touch with me 😉
-
-<div align="center">
-  <a style="margin-right: 15px;" href="mailto:contato.samuelbagatelli@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/samuel-bagatelli/" target="_blank">
-    <img width="64px" alt="linkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a style="margin-right: 15px;" href="https://instagram.com/samuel_bagatelli/" target="_blank">
-    <img width="64px" alt="" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/samuelbagatelli/github-readme-stats"><img height="165em" alt="Samuel Bagatelli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samuelbagatelli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -64,6 +50,20 @@
 ##	
 
 ![Snake animation](https://github.com/samuelbagatelli/samuelbagatelli/blob/output/github-contribution-grid-snake.svg)
+	
+## Get in touch with me 😉
+
+<div>
+  <a style="margin-right: 15px;" href="mailto:contato.samuelbagatelli@gmail.com" target="_blank">
+    <img width="64px" alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/samuel-bagatelli/" target="_blank">
+    <img width="64px" alt="linkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a style="margin-right: 15px;" href="https://instagram.com/samuel_bagatelli/" target="_blank">
+    <img width="64px" alt="" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ## ❤ Views and Followers
 <div align="center">
