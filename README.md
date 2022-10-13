@@ -53,22 +53,24 @@
 	
 ## Get in touch with me 😉
 
-<div>
-  <a style="margin-right: 15px;" href="mailto:contato.samuelbagatelli@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+<div align="center">
+  <a href="mailto:contato.samuelbagatelli@gmail.com" target="_blank">
+    <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/samuel-bagatelli/" target="_blank">
-    <img width="64px" alt="linkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/samuel-bagatelli/" target="_blank">
+    <img alt="linkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a style="margin-right: 15px;" href="https://instagram.com/samuel_bagatelli/" target="_blank">
-    <img width="64px" alt="" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/samuel_bagatelli/" target="_blank">
+    <img alt="instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ## ❤ Views and Followers
 <div align="center">
-	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-		<img src="https://komarev.com/ghpvc/?username=samuelbagatelli">
-	</a>
-	<a href="https://github.com/samuelbagatelli?tab=followers"><img src="https://img.shields.io/github/followers/samuelbagatelli?label=Followers&style=social" 			alt="GitHub Badge"></a>
+  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=samuelbagatelli">
+  </a>
+  <a href="https://github.com/samuelbagatelli?tab=followers">
+    <img src="https://img.shields.io/github/followers/samuelbagatelli?label=Followers&style=social" alt="GitHub Badge">
+  </a>
 </div> 
