@@ -1,7 +1,7 @@
 ## Hello 👋 and welcome to my GitHub!
 
 <div align="justify">
-	I'm Samuel, 18 years old and studying Software Development at Trybe. In love with programming and learning, and doing it everyday.
+	I'm Samuel, 20 years old and studying Software Development at Trybe. In love with programming and learning, and doing it everyday.
 	Why I've chosen programming for my career? Been honest, the reason is the bliss I get everytime I solve a problme with it.
 
 ## Some of my hobbies, for you to know me better! 🙃
