@@ -4,16 +4,6 @@
 	I'm Samuel, 20 years old and studying Software Development at Trybe. In love with programming and learning, and doing it everyday.
 	Why I've chosen programming for my career? Been honest, the reason is the bliss I get everytime I solve a problme with it.
 
-## Some of my hobbies, for you to know me better! 🙃
-
-<ul align="center">
-	<li>📚 I realy like to read. Take my time, grab a good book (it doesn't matter the subject), and let the time pass as I read it.</li>
-	<li>🤓 Learning is also one of my hobbies. People may think learn is boring, but we are learning every time, talking to someone, traveling, reading, even rubbing the belly of your pet.</li>
-	<li>🚴‍♂️ Moving your body is as important as getting knowledge, so everywhere I go, I try to go by bike.</li>
-	<li>🎮 Also love gaming, and I do it for relaxing, with friends or even alone.</li>
-	<li>💻 Programming is included in my hobbies, for Front-End I use React and its frameworks, and for Back-End I'm currently learning Node.js and  Express</li>
-</ul>
-
 ## Tools and Technologies
 
 <div style="display: inline_block" align="center"><br>
